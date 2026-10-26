@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#192a3a"/><stop offset=".55" stop-color="#526577"/><stop offset="1" stop-color="#101827"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <path d="M0 210h75v270H0zm83-55h86v325H83zm98 91h73v229h-73zm82-111h72v351h-72zm82 88h55v263h-55z" fill="#1a2734"/>
+  <g fill="#f7c66a" opacity=".8"><path d="M100 184h15v24h-15zm35 0h15v24h-15zm-35 49h15v24h-15zm175-73h15v25h-15zm31 0h15v25h-15zm-30 50h15v25h-15z"/></g>
+  <path d="M0 401h400v199H0z" fill="#101722"/>
+  <path d="M188 348c7-37 50-44 69-11l17 72-99 5z" fill="#111722"/>
+  <circle cx="223" cy="330" r="25" fill="#101620"/>
+  <path d="m198 377-36 112h25l48-67 47 65h22l-34-119z" fill="#111722"/>
+  <path d="M0 520h400" stroke="#62bbc7" stroke-opacity=".5" stroke-width="6"/>
+  <text x="22" y="68" fill="#bdebf0" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">EVERY CITY HAS A SECRET</text>
+  <text x="21" y="523" fill="#dce7ed" font-family="Arial,sans-serif" font-size="38" font-weight="900">CITY OF</text>
+  <text x="21" y="570" fill="#69d9e5" font-family="Arial,sans-serif" font-size="43" font-weight="900">ECHOES</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#311b35"/><stop offset=".48" stop-color="#e45132"/><stop offset="1" stop-color="#ffc15a"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="280" cy="230" r="88" fill="#ffd786" opacity=".86"/>
+  <path d="M0 358 95 264l75 78 83-110 147 130v238H0z" fill="#652b31"/>
+  <path d="M0 442 111 352l86 98 91-101 112 98v153H0z" fill="#311d2c"/>
+  <path d="M0 493q65-50 135 0t132 0 133 0v107H0z" fill="#171b27"/>
+  <path d="M174 347c28-38 79-32 99 4l-15 17h-77z" fill="#141923"/>
+  <circle cx="212" cy="332" r="17" fill="#141923"/>
+  <path d="m188 354-41 61 17 9 46-43 42 37 15-12-35-61z" fill="#141923"/>
+  <path d="m153 412-33 35m141-34 39 32" stroke="#11151d" stroke-width="10"/>
+  <circle cx="179" cy="431" r="30" fill="none" stroke="#141923" stroke-width="6"/><circle cx="274" cy="430" r="30" fill="none" stroke="#141923" stroke-width="6"/>
+  <text x="24" y="70" fill="#fff2d5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">RIDE INTO THE UNKNOWN</text>
+  <text x="20" y="542" fill="#ffcf64" font-family="Arial,sans-serif" font-size="58" font-weight="900">WILDFIRE</text>
+</svg>

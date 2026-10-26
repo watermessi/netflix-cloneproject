@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Plot twist: new hits, every single week. Start watching on Netflix."
+    />
+    <title>Netflix — New hits every week</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+  </head>
+  <body>
+    <div class="hero">
+      <header class="header-top">
+        <a href="#" aria-label="Netflix home">
+          <img src="./logo.svg" alt="Netflix" />
+        </a>
+        <button type="button">Sign In</button>
+      </header>
+      <main class="main-hero">
+        <h1>Plot twist: New hits,<br />every single week</h1>
+        <p class="price">Starts at ₦2,500. Cancel anytime.</p>
+        <h2>
+          Ready to watch? Enter your email to create or restart your membership.
+        </h2>
+        <form class="main-hero_input">
+          <label class="visually-hidden" for="email">Email address</label>
+          <input
+            id="email"
+            name="email"
+            type="email"
+            placeholder="Email address"
+            autocomplete="email"
+            required
+          />
+          <button type="submit">Get Started <span aria-hidden="true">›</span></button>
+        </form>
+      </main>
+    </div>
+
+    <section class="trending" aria-labelledby="trending-title">
+      <h2 id="trending-title">Trending Now</h2>
+      <div class="poster-grid">
+        <div class="poster-card">
+          <img src="./poster-after-the-signal.svg" alt="After the Signal — an astronaut listens for a mysterious transmission" />
+          <span aria-hidden="true">1</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-midnight-run.svg" alt="Midnight Run — a neon-lit city at night" />
+          <span aria-hidden="true">2</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-glass-harbor.svg" alt="Glass Harbor — a lighthouse above a misty sea" />
+          <span aria-hidden="true">3</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-wildfire.svg" alt="Wildfire — a rider crossing a blazing desert" />
+          <span aria-hidden="true">4</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-last-orbit.svg" alt="The Last Orbit — a spaceship above a distant planet" />
+          <span aria-hidden="true">5</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-city-of-echoes.svg" alt="City of Echoes — a detective in a rain-soaked city" />
+          <span aria-hidden="true">6</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-golden-hour.svg" alt="Golden Hour — friends watching a sunset over the coast" />
+          <span aria-hidden="true">7</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-shadow-line.svg" alt="Shadow Line — a lone figure in a dramatic red light" />
+          <span aria-hidden="true">8</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-northbound.svg" alt="Northbound — a train travels through snowy mountains" />
+          <span aria-hidden="true">9</span>
+        </div>
+        <div class="poster-card">
+          <img src="./poster-deep-blue.svg" alt="Deep Blue — a diver explores a glowing underwater world" />
+          <span aria-hidden="true">10</span>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

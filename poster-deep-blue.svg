@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#041a3c"/><stop offset=".5" stop-color="#087c9b"/><stop offset="1" stop-color="#02122e"/></linearGradient><radialGradient id="light"><stop stop-color="#9ff7ed" stop-opacity=".85"/><stop offset="1" stop-color="#2ad1df" stop-opacity="0"/></radialGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <path d="M195 0 70 430h260z" fill="url(#light)"/>
+  <g fill="#b7fff2"><circle cx="62" cy="115" r="4"/><circle cx="330" cy="185" r="3"/><circle cx="90" cy="265" r="3"/><circle cx="289" cy="340" r="4"/><circle cx="135" cy="190" r="2"/></g>
+  <path d="M0 462q70-65 138 0t131 0 131 0v138H0z" fill="#041b39"/>
+  <path d="M0 513q71-51 143 0t133 0 124 0" fill="none" stroke="#21bed0" stroke-opacity=".6" stroke-width="6"/>
+  <path d="M179 236c-14-35 6-69 39-69 31 0 47 31 33 63l-7 30h-56z" fill="#dceee9"/>
+  <path d="M188 202c2-18 14-28 29-28 16 0 28 12 29 28z" fill="#12384f"/>
+  <path d="m174 251-30 103 24 8 43-71 40 74 22-9-24-105z" fill="#dceee9"/>
+  <path d="m147 344-32 58 22 12 51-51m67-11 35 54-22 15-49-48" fill="#dceee9"/>
+  <text x="24" y="68" fill="#c4fff5" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">THE OCEAN REMEMBERS</text>
+  <text x="22" y="535" fill="#fff" font-family="Arial,sans-serif" font-size="52" font-weight="900">DEEP</text>
+  <text x="22" y="582" fill="#65f1e2" font-family="Arial,sans-serif" font-size="52" font-weight="900">BLUE</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#090d28"/><stop offset=".58" stop-color="#48216b"/><stop offset="1" stop-color="#f34e62"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="295" cy="128" r="67" fill="#ffcf86" opacity=".9"/>
+  <path d="M0 320 95 225l78 82 88-133 139 148v278H0z" fill="#11152d"/>
+  <path d="M0 385h400v215H0z" fill="#10131f"/>
+  <g fill="#ff4f7b"><path d="M36 355h55v144H36z"/><path d="M120 330h75v169h-75z"/><path d="M241 369h56v130h-56z"/><path d="M323 340h45v159h-45z"/></g>
+  <g fill="#87eaff"><path d="M48 371h9v18h-9zm25 0h9v18h-9zm62-16h12v22h-12zm30 0h12v22h-12zm88 30h9v20h-9zm75-27h8v18h-8z"/></g>
+  <path d="m155 600 35-104 27-10 28 114z" fill="#070a17"/>
+  <text x="24" y="70" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">ONE NIGHT CHANGES EVERYTHING</text>
+  <text x="22" y="530" fill="#fff" font-family="Arial,sans-serif" font-size="43" font-weight="900">MIDNIGHT</text>
+  <text x="22" y="575" fill="#ff5276" font-family="Arial,sans-serif" font-size="48" font-weight="900">RUN</text>
+</svg>

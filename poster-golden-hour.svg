@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#516c9b"/><stop offset=".45" stop-color="#f6a269"/><stop offset="1" stop-color="#422f4c"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="204" cy="279" r="76" fill="#ffe1a1"/>
+  <path d="M0 355q79-24 155 6t245-8v247H0z" fill="#395b70"/>
+  <path d="M0 399q94-20 191 6t209-5M0 461q94-20 191 6t209-5" fill="none" stroke="#ffc47e" stroke-opacity=".7" stroke-width="8"/>
+  <path d="M0 492 58 409l36 49 53-101 74 135 48-66 42 55 44-73 45 80v112H0z" fill="#24364c"/>
+  <g fill="#182a3b"><circle cx="157" cy="409" r="15"/><path d="M140 428h34l17 66h-65z"/><circle cx="235" cy="427" r="14"/><path d="M218 445h34l13 53h-61z"/></g>
+  <text x="23" y="68" fill="#fff4df" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">THE SUMMER WE REMEMBER</text>
+  <text x="22" y="535" fill="#fff1d4" font-family="Arial,sans-serif" font-size="48" font-weight="900">GOLDEN</text>
+  <text x="22" y="581" fill="#ffd06d" font-family="Arial,sans-serif" font-size="44" font-weight="900">HOUR</text>
+</svg>

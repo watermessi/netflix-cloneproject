@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#c8e4e7"/><stop offset=".48" stop-color="#648f9c"/><stop offset="1" stop-color="#112d43"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="84" cy="123" r="54" fill="#f7e5bd" opacity=".8"/>
+  <path d="M0 295q78-39 157 0t243 0v305H0z" fill="#20536a"/>
+  <path d="M0 355q90-35 190 0t210 0M0 410q100-30 204 0t196 0M0 475q90-28 190 0t210 0" fill="none" stroke="#9bd0d2" stroke-opacity=".5" stroke-width="7"/>
+  <path d="M225 145h52l22 201h-96z" fill="#f2e9d7"/>
+  <path d="M212 148h78l-24-47h-30z" fill="#293e4b"/>
+  <path d="M236 178h29v38h-29z" fill="#f8c86a"/>
+  <path d="M194 347h90v20h-90z" fill="#192d38"/>
+  <path d="M0 374q86-45 159 5v221H0zm319 12q34-22 81-8v222H319z" fill="#142d3d"/>
+  <text x="22" y="68" fill="#17394a" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">SOME SECRETS NEVER SINK</text>
+  <text x="21" y="520" fill="#f4f1e7" font-family="Arial,sans-serif" font-size="40" font-weight="900">GLASS</text>
+  <text x="21" y="568" fill="#f4f1e7" font-family="Arial,sans-serif" font-size="43" font-weight="900">HARBOR</text>
+</svg>

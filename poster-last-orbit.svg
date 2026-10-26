@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#050d24"/><stop offset=".68" stop-color="#123e6b"/><stop offset="1" stop-color="#9a5c77"/></linearGradient><radialGradient id="planet"><stop stop-color="#ffc97d"/><stop offset="1" stop-color="#d95f59"/></radialGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <g fill="#fff"><circle cx="52" cy="104" r="2"/><circle cx="137" cy="76" r="2"/><circle cx="325" cy="96" r="3"/><circle cx="352" cy="239" r="2"/><circle cx="68" cy="256" r="3"/><circle cx="236" cy="190" r="2"/></g>
+  <circle cx="264" cy="330" r="162" fill="url(#planet)"/>
+  <path d="M104 341c87-90 221-92 319-22M99 375c96-58 204-53 278-10" fill="none" stroke="#f6c8a2" stroke-opacity=".6" stroke-width="7"/>
+  <path d="m53 259 74-31 62 22-14 31-58 14-61-8z" fill="#dce7ed"/>
+  <path d="m108 251 31-51 19 4-17 57m-42 23-30 35m96-39 28 39" fill="none" stroke="#eef5f6" stroke-width="12"/>
+  <circle cx="132" cy="247" r="19" fill="#162b43"/>
+  <path d="M0 507q110-41 212-3t188 0v96H0z" fill="#090e20"/>
+  <text x="24" y="68" fill="#dff5ff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">THE FINAL JOURNEY BEGINS</text>
+  <text x="22" y="526" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="900">THE LAST</text>
+  <text x="22" y="572" fill="#8ce5ff" font-family="Arial,sans-serif" font-size="46" font-weight="900">ORBIT</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs><linearGradient id="bg" y2="1"><stop stop-color="#142943"/><stop offset=".5" stop-color="#6d9eb0"/><stop offset="1" stop-color="#e1d8c9"/></linearGradient></defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <circle cx="314" cy="115" r="43" fill="#f5e8ca"/>
+  <path d="M0 315 108 165l76 110 71-91 145 165v251H0z" fill="#34536a"/>
+  <path d="m0 330 108-165 40 58-44-20-53 88 37-16 42 14-46 9-20 43 60-8 20 20-144 42zm184-55 71-91 41 47-35-14-31 53 41-12 24 20-65 8-11 35 89-11 25 28-119 24z" fill="#e5edf0"/>
+  <path d="M0 382h400v218H0z" fill="#243e51"/>
+  <path d="M43 463h314v57H43z" fill="#111a26"/>
+  <path d="m60 448 36-42h201l43 42v85H60z" fill="#b74943"/>
+  <path d="M78 461h245v36H78z" fill="#e9d9bb"/>
+  <g fill="#29374a"><path d="M91 464h32v27H91zm47 0h32v27h-32zm47 0h32v27h-32zm47 0h32v27h-32zm47 0h27v27h-27z"/></g>
+  <text x="23" y="68" fill="#f1f4ed" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">THE WAY HOME IS UP AHEAD</text>
+  <text x="22" y="545" fill="#fff" font-family="Arial,sans-serif" font-size="56" font-weight="900">NORTHBOUND</text>
+</svg>
